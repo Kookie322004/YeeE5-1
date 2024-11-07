@@ -1,0 +1,40 @@
+p {
+	font-size: 25px;
+}
+
+body {
+	background-color:  #ffffe6;
+	background-image: url(room.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+h1 {
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+
+h2 {
+	text-align: center;
+}
+
+
+.div1 {
+	text-align: center;
+	position: center;
+}
+
+label {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
